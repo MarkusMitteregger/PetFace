@@ -25,7 +25,8 @@ __pycache__/
 .Python
 env/
 venv/
-
+.venv
+    
 # Output
 analysis_output/
 *.csv
